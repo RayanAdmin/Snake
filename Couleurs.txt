@@ -1,0 +1,12 @@
+Couleurs disponibles :
+
+Bleu = blue
+Rouge = red
+Vert = green
+Jaune = yellow
+Marron = brown
+Noir = black
+Rose = pink
+Orange = orange
+Violet = purple
+Gris = grey
